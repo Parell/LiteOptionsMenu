@@ -1,0 +1,51 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 5b11a58205ec3474ca216360e9fa74a8, type: 3}
+  m_Name: MenuTable Shared Data
+  m_EditorClassIdentifier: 
+  m_TableCollectionName: MenuTable
+  m_TableCollectionNameGuidString: d19c4c8bf5195264485c8946329e3036
+  m_Entries:
+  - m_Id: 7626186752
+    m_Key: Play
+    m_Metadata:
+      m_Items: []
+  - m_Id: 36810153984
+    m_Key: Options
+    m_Metadata:
+      m_Items: []
+  - m_Id: 146583430520832
+    m_Key: Quit
+    m_Metadata:
+      m_Items: []
+  - m_Id: 154880602693632
+    m_Key: Are you sure?
+    m_Metadata:
+      m_Items: []
+  - m_Id: 154895303729152
+    m_Key: Yes
+    m_Metadata:
+      m_Items: []
+  - m_Id: 154911862841344
+    m_Key: No
+    m_Metadata:
+      m_Items: []
+  m_Metadata:
+    m_Items: []
+  m_KeyGenerator:
+    id: 0
+  references:
+    version: 1
+    00000000:
+      type: {class: DistributedUIDGenerator, ns: UnityEngine.Localization.Tables, asm: Unity.Localization}
+      data:
+        m_CustomEpoch: 1640735131457
