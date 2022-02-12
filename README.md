@@ -1,5 +1,5 @@
 # UnitySettings
-My unity settings and localization menu.
+My unity settings and localization menu
 
 # Installation
 
